@@ -14,4 +14,5 @@
 !NAT64Prefixes.md
 !docs
 !docs/**
+!dist/
 !dist/**
